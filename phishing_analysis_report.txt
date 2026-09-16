@@ -1,0 +1,71 @@
+DECODELABS – CYBER SECURITY PROJECT 3
+PHISHING AWARENESS ANALYSIS
+
+Objective:
+Analyze a sample message and identify indicators of a phishing attempt.
+
+SAMPLE PHISHING MESSAGE
+
+Subject: Urgent: Your Account Will Be Suspended
+
+From: security-alert@example-support.com
+
+Message:
+Dear Customer,
+
+We detected unusual activity on your account. Your account will be suspended within 24 hours unless you verify your information immediately.
+
+Click here to verify your account:
+http://example-security-verify.com/login
+
+Please enter your username, password, and other account details to complete verification.
+
+Thank you,
+Security Team
+
+
+ANALYSIS
+
+1. Suspicious sender
+The sender address uses a generic-looking domain instead of a clearly verified official organization domain.
+
+2. Urgent language
+The message says the account will be suspended within 24 hours. This creates fear and pressure so the recipient may act without checking.
+
+3. Suspicious link
+The verification link points to a domain that does not clearly belong to the claimed service.
+
+4. Request for sensitive information
+The message asks for a username, password, and other account details. Legitimate services generally should not request passwords through an unsolicited email link.
+
+5. Threat of account suspension
+The warning about immediate suspension is a common social-engineering technique used to make the victim panic.
+
+6. Unexpected verification request
+The recipient is asked to verify the account through an unsolicited message rather than using the organization's known official website or app.
+
+RED FLAGS FOUND
+
+• Untrusted or suspicious sender domain
+• Urgent 24-hour deadline
+• Threat of account suspension
+• Suspicious external URL
+• Request for username and password
+• Unexpected account verification request
+• Fear and pressure used to encourage immediate action
+
+WHY THE MESSAGE IS UNSAFE
+
+The message contains several phishing indicators. It attempts to create urgency and fear, directs the recipient to a suspicious website, and requests sensitive login information. Following the link or entering credentials could expose the account information to an attacker.
+
+SAFE ACTIONS
+
+• Do not click the suspicious link.
+• Do not provide passwords or other sensitive information.
+• Verify the message using the organization's official website or app.
+• Report the message as phishing/spam.
+• Delete the message after reporting it.
+
+CONCLUSION
+
+Phishing messages often use urgency, suspicious links, impersonation, threats, and requests for sensitive information. Checking the sender, URL, wording, and requested information before taking action can help prevent phishing attacks.
