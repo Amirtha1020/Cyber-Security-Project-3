@@ -1,0 +1,10 @@
+Phishing Awareness Analysis
+
+Project goal:
+Analyze sample emails/messages to identify phishing attempts.
+
+Contents:
+1. phishing_analysis_report.txt - completed analysis
+2. red_flag_checklist.txt - quick phishing red-flag checklist
+
+The analysis covers suspicious links/keywords, red flags, and why the sample message is unsafe.
